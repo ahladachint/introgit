@@ -1,2 +1,0 @@
-# introgit
-first part
